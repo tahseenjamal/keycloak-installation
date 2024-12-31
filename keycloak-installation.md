@@ -74,7 +74,7 @@ This guide will walk you through the process of installing Keycloak. Ensure you 
    ```sh
    sudo -u keycloak /opt/keycloak/bin/kc.sh bootstrap-admin user --username admin
    ```
-   You will be prompted to set the password for the admin user.
+   It will take sometime then prompt you to set the password for the admin user.
 
 ## Step 3: Running Keycloak as a Service
 
